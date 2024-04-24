@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheKingdomOfWooJoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c84279d05818165a4e06e5098004ecd7e52ad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheKingdomOfWooJoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheKingdomOfWooJoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

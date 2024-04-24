@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoonk\\Desktop\\C# 자료\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj": {}
+    "C:\\Users\\yoonk\\Desktop\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoonk\\Desktop\\C# 자료\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj": {
+    "C:\\Users\\yoonk\\Desktop\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoonk\\Desktop\\C# 자료\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj",
+        "projectUniqueName": "C:\\Users\\yoonk\\Desktop\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj",
         "projectName": "TheKingdomOfWooJoo",
-        "projectPath": "C:\\Users\\yoonk\\Desktop\\C# 자료\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj",
+        "projectPath": "C:\\Users\\yoonk\\Desktop\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo.csproj",
         "packagesPath": "C:\\Users\\yoonk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoonk\\Desktop\\C# 자료\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\obj\\",
+        "outputPath": "C:\\Users\\yoonk\\Desktop\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\TheKingdomOfWooJoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoonk\\AppData\\Roaming\\NuGet\\NuGet.Config",
