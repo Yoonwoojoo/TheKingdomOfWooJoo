@@ -1,0 +1,14 @@
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\bin\Debug\net8.0\TheKingdomOfWooJoo.exe
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\bin\Debug\net8.0\TheKingdomOfWooJoo.deps.json
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\bin\Debug\net8.0\TheKingdomOfWooJoo.runtimeconfig.json
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\bin\Debug\net8.0\TheKingdomOfWooJoo.dll
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\bin\Debug\net8.0\TheKingdomOfWooJoo.pdb
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.AssemblyInfoInputs.cache
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.AssemblyInfo.cs
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.csproj.CoreCompileInputs.cache
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.dll
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\refint\TheKingdomOfWooJoo.dll
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.pdb
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\TheKingdomOfWooJoo.genruntimeconfig.cache
+C:\Users\yoonk\Desktop\C# 자료\TheKingdomOfWooJoo\TheKingdomOfWooJoo\obj\Debug\net8.0\ref\TheKingdomOfWooJoo.dll
